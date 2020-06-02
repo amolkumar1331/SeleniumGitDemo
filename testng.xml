@@ -5,6 +5,7 @@
     <classes>
       <class name="com.DemoBlaze.SeleniumGit.Demo1"/>
       <class name="com.DemoBlaze.SeleniumGit.Demo2"/>
+     <class name="com.DemoBlaze.SeleniumGit.Demo3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

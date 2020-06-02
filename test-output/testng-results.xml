@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2020-06-02T10:53:59Z" finished-at="2020-06-02T10:53:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2020-06-02T10:53:59Z" finished-at="2020-06-02T10:53:59Z">
+      <class name="com.DemoBlaze.SeleniumGit.Demo2">
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.DemoBlaze.SeleniumGit.Demo2@5353a88b]" name="m1" is-config="true" duration-ms="14" started-at="2020-06-02T16:23:59Z" finished-at="2020-06-02T16:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:com.DemoBlaze.SeleniumGit.Demo2@5353a88b]" name="m3" duration-ms="3" started-at="2020-06-02T16:23:59Z" finished-at="2020-06-02T16:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.DemoBlaze.SeleniumGit.Demo2@5353a88b]" name="m2" is-config="true" duration-ms="0" started-at="2020-06-02T16:23:59Z" finished-at="2020-06-02T16:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- com.DemoBlaze.SeleniumGit.Demo2 -->
+      <class name="com.DemoBlaze.SeleniumGit.Demo1">
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.DemoBlaze.SeleniumGit.Demo1@33bb38e5]" name="m1" duration-ms="9" started-at="2020-06-02T16:23:59Z" finished-at="2020-06-02T16:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.DemoBlaze.SeleniumGit.Demo1@33bb38e5]" name="m2" duration-ms="3" started-at="2020-06-02T16:23:59Z" finished-at="2020-06-02T16:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- com.DemoBlaze.SeleniumGit.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
